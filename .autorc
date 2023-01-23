@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fozouni",
+  "repo": "container-qcck1ae",
+  "name": "fozouni",
+}
